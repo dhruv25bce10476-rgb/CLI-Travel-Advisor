@@ -4,7 +4,7 @@ from traveladviser import run_travel_planner
 
 BANNER = """
   ╔══════════════════════════════════════════════════╗
-  ║         DW TRAVEL ADVISER  —  v2.0              ║
+  ║         DW TRAVEL ADVISER                        ║
   ║         ✈  Plan smarter. Travel better.         ║
   ╚══════════════════════════════════════════════════╝
 """
