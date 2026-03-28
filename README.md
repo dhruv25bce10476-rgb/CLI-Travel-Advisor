@@ -98,5 +98,5 @@ Japan, France, USA, UAE, Thailand, Australia, Germany, Singapore, Canada, Italy,
 
 ## Author
 
-Made by **Dhruv Warrier**  
+Made by **Dhruv Prasad Warrier**  
 DW Travel Adviser
