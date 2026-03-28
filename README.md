@@ -96,7 +96,7 @@ Japan, France, USA, UAE, Thailand, Australia, Germany, Singapore, Canada, Italy,
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Made by **Dhruv**  
-DW Travel Adviser — v2.0
+Made by **Dhruv Warrier**  
+DW Travel Adviser
